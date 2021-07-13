@@ -4,6 +4,6 @@
 
 **Link to video** : https://www.youtube.com/watch?v=-JlrFYpg9XE
 
-**App link** : https://aiswaryalenin-video-chat.netlify.app/
+**App link** : https://aiswaryalenin-video-chat.netlify.app/ (Use Microsoft Edge)
 
 
